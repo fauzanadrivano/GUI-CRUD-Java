@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DaataBase Film">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataBase Hiburan/dist/DaataBase Film.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
